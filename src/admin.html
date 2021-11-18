@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Admin Dashboard | Real Estate Renting</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+          <h1 class="text-center">Real Estate Renting</h1>
+          <hr/>
+          <div class="text-right">
+          <a href="index.html" class="btn btn-primary">Logout</a>
+                    </div>
+          <br/>
+        </div>
+      </div>
+
+      
+    </div>
+<div class="container">
+  
+  <section class="panel panel-default">
+<div class="panel-heading"> 
+<h3 class="panel-title">Add Product</h3> 
+</div> 
+<div class="panel-body">
+  
+<form action="" class="form-horizontal" role="form">
+
+
+
+   <div class="form-group">
+    <label for="name" class="col-sm-3 control-label">Product Name</label>
+    <div class="col-sm-9">
+      <input type="text" class="form-control" name="name" id="name" placeholder="Enter Product Name">
+    </div>
+  </div> <!-- form-group // -->
+   <!-- form-group // -->
+  <div class="form-group">
+    <label for="about" class="col-sm-3 control-label">Description</label>
+    <div class="col-sm-9">
+      <textarea class="form-control"></textarea>
+    </div>
+  </div> <!-- form-group // -->
+  <div class="form-group">
+    <label for="qty" class="col-sm-3 control-label">Rent</label>
+    <div class="col-sm-9">
+   <input type="text" class="form-control" name="qty" id="qty" placeholder="150000">
+    </div>
+  </div> <!-- form-group // -->
+  <div class="form-group">
+    <label class="col-sm-3 control-label">Capability</label>
+    <div class="col-sm-3"> 
+	  <label class="control-label small" for="date_start">Bedrooms </label>
+	  <input type="text" class="form-control" name="date_start" id="date_start" placeholder="Bedrooms">
+    </div>
+	<div class="col-sm-3">   
+	  <label class="control-label small" for="date_finish">Bathrooms</label>
+	  <input type="text" class="form-control" name="date_finish" id="date_finish" placeholder="Bathrooms">
+    </div>
+  </div> <!-- form-group // -->
+  <div class="form-group">
+    <label for="name" class="col-sm-3 control-label">Pictures</label>
+    <div class="col-sm-3">
+      <label class="control-label small" for="file_img"> (jpg/png):</label> <input type="file" name="file_img">
+    </div>
+	
+  </div> <!-- form-group // -->
+  <!-- form-group // -->
+  <hr>
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button type="submit" class="btn btn-primary">Add Product</button>
+    </div>
+  </div> <!-- form-group // -->
+</form>
+  
+</div><!-- panel-body // -->
+</section><!-- panel// -->
+
+  
+</div> <!-- container// -->
+    
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 30000,
+    "breed": "4",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "One Storey",
+    "picture": "images/2.jpg",
+    "age": 28000,
+    "breed": "4",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Double Storey",
+    "picture": "images/5.jpg",
+    "age":47000,
+    "breed": "6",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 15000,
+    "breed": "3",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 20000,
+    "breed": "3",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Apartment",
+    "picture": "images/11.jpg",
+    "age": 35000,
+    "breed": "3",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Apartment",
+    "picture": "images/11.jpg",
+    "age": 32000,
+    "breed": "3",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Two Storey",
+    "picture": "images/6.jpg",
+    "age": 29000,
+    "breed": "5",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 21000,
+    "breed": "3",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 18000,
+    "breed": "3",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Apartment",
+    "picture": "images/9.jpg",
+    "age": 29000,
+    "breed": "4",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Apartment",
+    "picture": "images/11.jpg",
+    "age": 30000,
+    "breed": "4",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Apartment",
+    "picture": "images/12.jpg",
+    "age": 30000,
+    "breed": "4",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "One Storey",
+    "picture": "images/3.jpg",
+    "age": 16000,
+    "breed": "3",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Apartment",
+    "picture": "images/10.jpg",
+    "age": 27000,
+    "breed": "4",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Apartment",
+    "picture": "images/9.jpg",
+    "age": 28000,
+    "breed": "4",
+    "location": "Dawn, Wisconsin"
+  }
+]
